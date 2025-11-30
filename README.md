@@ -1,33 +1,20 @@
-# Proyecto Urban Grocers
+# 📂 Proyecto Final de Entrenamiento (Urban Scooter)
 
+> Un proyecto de simulación de caso real, para realización de pruebas manuales. De un sistema de aplicaciones para rentar Scooters. 
 ---
 
-## Descripcion del proyecto
+## 🌟 Resumen y Propósito
 
-Proyecto de la aplicación Urban Grocers, para probar la caracteristica de crear kits de productos. 
+Este proyecto fue creado con el objetivo de poner en práctica los conocimientos adquiridos después de estar en un entrenamiento riguroso en un bootcamp de QA.  Se realizaron listas de comprobación, casos de prueba, e informe de errores. Para aplicación web, aplicación móvil y API. En base a lo que se solicitó para realizar esta simulación.
 
-Se han creado varias listas de comprobación, haciendo varias pruebas en del campo name en la solicitud de creación de un kit de productos.
+El público objetivo para este repositorio es [Ej: El equipo de desarrollo, la gerencia, o colaboradores externos].
 
-Las pruebas estan automatizadas y escritas basadas en la lista de comprobación proporcionada para el proyecto.
+## 🛠 Estructura de la Carpeta
 
-Para crear un kit, primero es necesario crear un usuario. Cada una de las pruebas automatizadas primero crea un usuario y posteriormente crea un kit
-con los datos necesarios para hacer la prueba.
-
----
-
-## Documentacion utilizada
-
-Documentacion para la creacion de un usuario:
-https://cnt-e6adf25c-e57a-49ff-8a56-a2bacfd282a5.containerhub.tripleten-services.com/docs/#api-Main.User
-
-Documentacion para crear un kit:
-https://cnt-e6adf25c-e57a-49ff-8a56-a2bacfd282a5.containerhub.tripleten-services.com/docs/#api-Main.Kits-CreateKit
-
----
-
-## Tecnologías y técnicas utilizadas.
-
-Para la elaboracion de las pruebas Automatizadas se utilizó el lenguaje de programación Python. El framework de pruebas pytest. Y 
-la librearia response para manejar las solicitudes que interactuan con las APIs. 
-
-Se utilizo el sistema de control de versiones Git y se utilizo la plataforma web GitHub para alojar el proyecto.
+La carpeta principal contiene la siguiente estructura:
+* `"Tareas - Instrucciones.pdf"`: Este archivo se encuentra en la carpeta principal. El cual contiene las instrucciones que se siguieron Para realizar las tareas y las pruebas
+* `"Tareas - Contenido.xlsx"`: Esta archivo se encuentra en la carpeta principal. El cual contiene el registro de las actividades solicitadas para el proyecto. Contiene la prueba teorica, el mapa mental, las listas de comprobacion y los casos de prueba.
+* `/imagenes`: Esta carpeta contiene las capturas de pantalla relacionadas a las pantallas donde se solicitaron las pruebas.
+* `/requisitos`: Esta carpeta contiene los documentos de los requisitos de las aplicaciones que deben probarse.
+* `/mapa_mental`: Esta carpeta contiene una imagen del mapa mental solicitado en las tareas.
+* `README.md`: Este archivo.
