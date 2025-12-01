@@ -45,7 +45,7 @@ Para esta tarea, supervisión solicitó realizar lo siguiente:
 * **Desarrollo de un Mapa Mental** de la función del formulario de pedido.
 * **Elaboración de una Lista de Comprobación** de los requisitos de función de la pantalla **"Estado del pedido"**.
 * **Creación de Casos de Prueba** para validar los campos de la pantalla **"Hacer pedido"** (incluyendo la validación de datos y el uso de técnicas de diseño como Clases de Equivalencia y Valores Límite).
-* **Prueba de las funciones en base a listas de comprobación/tablas resultantes.
+* **Prueba de las funciones en base a listas de comprobación/tablas resultantes.**
 
 Para realizar esta tarea se tomo la información de sobre la pantalla para realizar pedido y pantalla de estado de pedido, que se muestra en el documento de requisitos (ubicado en la ruta: “requisitos\2_requisitos_aplicacion_web.pdf”). Y también como material de apoyo para ver las pantallas se pueden usar las capturas de pantalla (ubicadas en la carpeta “imágenes\”) y para validar los campos de la pantalla “Realizar Pedido”, los datos validos para dichos campos se especifica en el documento de requisitos de aplicación web.
 
@@ -86,10 +86,10 @@ La lista de comprobación para esta tarea, se encuentra en el archivo `Tareas - 
 
 La carpeta principal contiene los siguientes archivos y directorios:
 
-| Archivo/Carpeta                                          | Contenido |
-|:---------------------------------------------------------| :--- |
-| `README.md`                                              | Este documento de información consolidada. |
-| **[`Tareas - Contenido.xlsx`](Tareas - Contenido.xlsx)** | Archivo central que contiene todos los resultados de la ejecución de pruebas. Pruebas teóricas (Tarea 1), Mapa Mental (Tarea 2), Listas de Comprobación (Tarea 2 y 4) y Casos de Prueba (Tarea 2 y 3). |
-| `/imagenes`                                              | Contiene las capturas de pantalla relacionadas con las pruebas (si aplica). | — |
-| `/requisitos`                                            | Contiene la documentación de requisitos de las aplicaciones probadas. | — |
-| `/mapa_mental`                                           | Contiene una imagen del Mapa Mental de la función "Hacer pedido" de la Web. | — |
+| Archivo/Carpeta                                        | Contenido |
+|:-------------------------------------------------------| :--- |
+| `README.md`                                            | Este documento de información consolidada. |
+| **[Tareas - Contenido.xlsx](Tareas - Contenido.xlsx)** | Archivo central que contiene todos los resultados de la ejecución de pruebas. Pruebas teóricas (Tarea 1), Mapa Mental (Tarea 2), Listas de Comprobación (Tarea 2 y 4) y Casos de Prueba (Tarea 2 y 3). |
+| `/imagenes`                                            | Contiene las capturas de pantalla relacionadas con las pruebas (si aplica). | — |
+| `/requisitos`                                          | Contiene la documentación de requisitos de las aplicaciones probadas. | — |
+| `/mapa_mental`                                         | Contiene una imagen del Mapa Mental de la función "Hacer pedido" de la Web. | — |
